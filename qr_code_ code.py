@@ -1,5 +1,5 @@
 #QR CODE GRNERATOR
-#first project in python
+#project in python
 import qrcode
 from PIL import Image
 import tkinter as tk
